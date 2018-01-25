@@ -8,9 +8,12 @@
 	/* Colors are in hexadecimal: http://www.colorpicker.com/ */	
 	color: #CC00AA;
 }
-
+.jumbotron p.active {
+     color: #1f6ddd;
+}
 /* this style exists to make it obvious that you've successfully linked
    the CSS to the page. feel free to remove it once the link is working. */
+
 body {
      border: 1px dotted gray;
      padding: 20px;
